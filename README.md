@@ -4,7 +4,7 @@ An AI-powered healthcare assistant that allows users to input symptoms and recei
 
 🔐 Features user **login and signup** functionality for secure access, built using **Flask**, and stores data using **Flask-SQLAlchemy**.
 
-🚀 **Live Demo** : 
+🚀 **Live Demo** : https://kunal-healthcare-recommendation.onrender.com
 
 ---
 ## 🚀 Key Features
